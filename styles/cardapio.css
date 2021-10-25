@@ -1,0 +1,26 @@
+.header {
+    margin-top: -10px;
+    background-image: url("../image/src/bkg.jpg");
+    width: fill;
+    height: 200px;
+}
+
+.title {
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: monospace;
+}
+
+.row {
+    margin-left: 50px;
+}
+
+.row p {
+    font-size: 30px;
+}
+
+.row li {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
