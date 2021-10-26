@@ -87,6 +87,7 @@ body {
     width: 450px;
     margin-left: auto; margin-right: auto;
     padding: 10px;
+    background-color: #343536;
 }
 
 #tel strong {
@@ -95,7 +96,7 @@ body {
     color: yellow;
 }
 
-#tel label {
+#tel p {
     font-size: 40px;
     color: white;
 }
@@ -104,4 +105,8 @@ body {
     width: 450px;
     margin-left: auto; margin-right: auto;
     margin-top: 10px;
+}
+
+.end {
+    margin-bottom: 10px;
 }
